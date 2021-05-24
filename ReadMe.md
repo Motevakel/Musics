@@ -27,6 +27,10 @@ List of music files created by AI and uploaded to [SoundCloud.com/1nj3ct0r](http
     * **Movement** 👉 Tasting
     * **Instruments** 👉 Percussion | Ethnic | Tabla | Orchestral | Strings | Sitar
 
+<p align=center>
+  <img src="https://media.giphy.com/media/U4YKAzcXSerm7Cx9KX/giphy.gif">
+</p>
+
 <h2>
   License 📃
 </h2>
