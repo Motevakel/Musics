@@ -108,3 +108,7 @@ List of music files created by AI and uploaded to [SoundCloud.com/1nj3ct0r](http
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" />
   </a>
 </p>
+
+<p align=center>
+  <img src="https://media.giphy.com/media/RjxWKMSrZkChOlNWqd/giphy.gif">
+</p>
