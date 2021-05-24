@@ -1,2 +1,3 @@
 # Musics
-List of music files created by AI and uploaded to SoundCloud.com/1nj3ct0r 🎶
+
+List of music files created by AI and uploaded to [SoundCloud.com/1nj3ct0r](https://soundcloud.com/1nj3ct0r) 🎶
