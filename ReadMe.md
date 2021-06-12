@@ -27,6 +27,14 @@ List of music files created by AI and uploaded to [SoundCloud.com/1nj3ct0r](http
     * **Movement** 👉 Tasting
     * **Instruments** 👉 Percussion | Ethnic | Tabla | Orchestral | Strings | Sitar
 
+  * ### Ecstasy 🚭
+    * **BPM** 👉 79
+    * **Genre** 👉 HipHop | Rap
+    * **Mood** 👉 Creepy | Spooky
+    * **Energy** 👉 Medium
+    * **Movement** 👉 Escape
+    * **Instruments** 👉 Electronic Drums | Synthesizer - Layered | Bass | Tuba
+
 <p align=center>
   <img src="https://media.giphy.com/media/U4YKAzcXSerm7Cx9KX/giphy.gif">
 </p>
