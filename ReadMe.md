@@ -34,6 +34,14 @@ List of music files created by AI and uploaded to [SoundCloud.com/1nj3ct0r](http
     * **Energy** 👉 Medium
     * **Movement** 👉 Escape
     * **Instruments** 👉 Electronic Drums | Synthesizer - Layered | Bass | Tuba
+    
+  * ### WTF 🤯
+    * **BPM** 👉 102
+    * **Genre** 👉 HipHop | Rap
+    * **Mood** 👉 Pumped
+    * **Enery** 👉 High
+    * **Movement** 👉 Heavy | Ponderous
+    * **Instruments** 👉 Drums | Organ | Synthesizer - Layered | Bass | Orchestral | Strings
 
 <p align=center>
   <img src="https://media.giphy.com/media/U4YKAzcXSerm7Cx9KX/giphy.gif">
