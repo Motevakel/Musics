@@ -9,7 +9,7 @@
 
 List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](https://soundcloud.com/d0t0n10n)
 
-## List of songs and their specifications 👇
+## List of songs and their specifications
   
   * ### The First
     * **BPM** -> 96
