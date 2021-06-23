@@ -93,6 +93,12 @@ List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](http
   <a href="https://github.com/d0t0n10n">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
+  <a href="https://hashnode.com/@dotonion">
+    <img src="https://img.shields.io/badge/HashNode-2962FF?style=flat&logo=hashnode&logoColor=white" />
+  </a>
+  <a href="https://dev.to/dotonion">
+    <img src="https://img.shields.io/badge/Dev.To-0A0A0A?style=flat&logo=dev.to&logoColor=white" />
+  </a>
   <a href="https://codeforces.com/profile/1nj3ct0r">
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
   </a>
