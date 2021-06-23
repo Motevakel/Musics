@@ -7,48 +7,48 @@
   </a>
 </h1>
 
-List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](https://soundcloud.com/d0t0n10n) 🎶
+List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](https://soundcloud.com/d0t0n10n)
 
 ## List of songs and their specifications 👇
   
-  * ### The First 🥁
-    * **BPM** 👉 96
-    * **Genre** 👉 HipHop | Rap
-    * **Mood** 👉 Empowerment | Empower
-    * **Energy** 👉 High
-    * **Movement** 👉 Argue
-    * **Instruments** 👉 Drums | Kicks | Snares | Hats | Tembourine | Electric Piano | Electric Guitar | Electric Bass | Violin
+  * ### The First
+    * **BPM** -> 96
+    * **Genre** -> HipHop | Rap
+    * **Mood** -> Empowerment | Empower
+    * **Energy** -> High
+    * **Movement** -> Argue
+    * **Instruments** -> Drums | Kicks | Snares | Hats | Tembourine | Electric Piano | Electric Guitar | Electric Bass | Violin
 
-  * ### Aria 🇮🇷
-    * **BPM** 👉 120
-    * **Genre** 👉 World
-    * **Mood** 👉 Dreaming | Dreamy
-    * **Energy** 👉 Medium
-    * **Movement** 👉 Tasting
-    * **Instruments** 👉 Percussion | Ethnic | Tabla | Orchestral | Strings | Sitar
+  * ### Aria
+    * **BPM** -> 120
+    * **Genre** -> World
+    * **Mood** -> Dreaming | Dreamy
+    * **Energy** -> Medium
+    * **Movement** -> Tasting
+    * **Instruments** -> Percussion | Ethnic | Tabla | Orchestral | Strings | Sitar
 
-  * ### Ecstasy 🚭
-    * **BPM** 👉 79
-    * **Genre** 👉 HipHop | Rap
-    * **Mood** 👉 Creepy | Spooky
-    * **Energy** 👉 Medium
-    * **Movement** 👉 Escape
-    * **Instruments** 👉 Electronic Drums | Synthesizer - Layered | Bass | Tuba
+  * ### Ecstasy
+    * **BPM** -> 79
+    * **Genre** -> HipHop | Rap
+    * **Mood** -> Creepy | Spooky
+    * **Energy** -> Medium
+    * **Movement** -> Escape
+    * **Instruments** -> Electronic Drums | Synthesizer - Layered | Bass | Tuba
     
-  * ### WTF 🤯
-    * **BPM** 👉 102
-    * **Genre** 👉 HipHop | Rap
-    * **Mood** 👉 Pumped
-    * **Enery** 👉 High
-    * **Movement** 👉 Heavy | Ponderous
-    * **Instruments** 👉 Drums | Organ | Synthesizer - Layered | Bass | Orchestral | Strings
+  * ### WTF
+    * **BPM** -> 102
+    * **Genre** -> HipHop | Rap
+    * **Mood** -> Pumped
+    * **Enery** -> High
+    * **Movement** -> Heavy | Ponderous
+    * **Instruments** -> Drums | Organ | Synthesizer - Layered | Bass | Orchestral | Strings
 
 <p align=center>
   <img src="https://media.giphy.com/media/U4YKAzcXSerm7Cx9KX/giphy.gif">
 </p>
 
 <h2>
-  License 📃
+  License
 </h2>
 
 <p>
@@ -77,48 +77,24 @@ List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](http
 
 
 <h2>
-  Other Places 😁
+  Other Places
 </h2>
 
 <p>
-  <a href="mailto:mhesam.tavakoli@gmail.com">
-    <img src="https://img.shields.io/badge/GMail-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:d0t0n10n@pm.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/1nj3ct0r/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://soundcloud.com/1nj3ct0r">
+  <a href="https://soundcloud.com/d0t0n10n">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white" />
   </a>
-  <a href="https://www.producthunt.com/@1nj3ct0r">
-    <img src="https://img.shields.io/badge/ProductHunt-DA552F?style=flat&logo=product-hunt&logoColor=white" />
-  </a>
-  <a href="https://1nj3ct0r.medium.com/">
+  <a href="https://dotonion.medium.com/">
     <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" />
   </a>
-  <a href="https://news.ycombinator.com/user?id=1nj3ct0r">
-    <img src="https://img.shields.io/badge/Y%20Combinator-F0652F?style=flat&logo=y-combinator&logoColor=white" />
-  </a>
-  <a href="https://github.com/1nj3ct0rrr">
+  <a href="https://github.com/d0t0n10n">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-  <a href="https://codepen.io/1nj3ct0r">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=codepen&logoColor=white" />
-  </a>
-  <a href="https://glitch.com/@1nj3ct0r">
-    <img src="https://img.shields.io/badge/Glitch-3333FF?style=flat&logo=glitch&logoColor=white" />
-  </a>
-  <a href="https://www.freecodecamp.org/1nj3ct0r">
-    <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=flat&logo=freecodecamp&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/1nj3ct0r/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://codeforces.com/profile/1nj3ct0r">
     <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/1nj3ct0r">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" />
   </a>
 </p>
 
