@@ -43,6 +43,22 @@ List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](http
     * **Movement** -> Heavy | Ponderous
     * **Instruments** -> Drums | Organ | Synthesizer - Layered | Bass | Orchestral | Strings
 
+  * ### Desert
+    * **BPM** -> 90
+    * **Genre** -> HipHop | Rep
+    * **Mood** -> Mysterious | Mystical | Enigma
+    * **Energy** -> High
+    * **Movement** -> Rise Up
+    * **Instruments** -> Electronic Drums | Percussion | Shaker | Synth Bass | Horns | Brass | Trombone | Orchestral | Strings
+
+  * ### Poison
+    * **BPM** -> 122
+    * **Genre** -> Hard Rock
+    * **Mood** -> Serious | Tense
+    * **Energy** -> High
+    * **Movement** -> Chasing
+    * **Instruments** -> Acoustic Drums | Electronic Drums | Synthesizer | Electric Guitar | Electric Bass
+
 <p align=center>
   <img src="https://media.giphy.com/media/U4YKAzcXSerm7Cx9KX/giphy.gif">
 </p>
