@@ -10,54 +10,7 @@
 List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](https://soundcloud.com/d0t0n10n)
 
 ## List of songs and their specifications
-  
-  * ### The First
-    * **BPM** -> 96
-    * **Genre** -> HipHop | Rap
-    * **Mood** -> Empowerment | Empower
-    * **Energy** -> High
-    * **Movement** -> Argue
-    * **Instruments** -> Drums | Kicks | Snares | Hats | Tembourine | Electric Piano | Electric Guitar | Electric Bass | Violin
 
-  * ### Aria
-    * **BPM** -> 120
-    * **Genre** -> World
-    * **Mood** -> Dreaming | Dreamy
-    * **Energy** -> Medium
-    * **Movement** -> Tasting
-    * **Instruments** -> Percussion | Ethnic | Tabla | Orchestral | Strings | Sitar
-
-  * ### Ecstasy
-    * **BPM** -> 79
-    * **Genre** -> HipHop | Rap
-    * **Mood** -> Creepy | Spooky
-    * **Energy** -> Medium
-    * **Movement** -> Escape
-    * **Instruments** -> Electronic Drums | Synthesizer - Layered | Bass | Tuba
-    
-  * ### WTF
-    * **BPM** -> 102
-    * **Genre** -> HipHop | Rap
-    * **Mood** -> Pumped
-    * **Enery** -> High
-    * **Movement** -> Heavy | Ponderous
-    * **Instruments** -> Drums | Organ | Synthesizer - Layered | Bass | Orchestral | Strings
-
-  * ### Desert
-    * **BPM** -> 90
-    * **Genre** -> HipHop | Rep
-    * **Mood** -> Mysterious | Mystical | Enigma
-    * **Energy** -> High
-    * **Movement** -> Rise Up
-    * **Instruments** -> Electronic Drums | Percussion | Shaker | Synth Bass | Horns | Brass | Trombone | Orchestral | Strings
-
-  * ### Poison
-    * **BPM** -> 122
-    * **Genre** -> Hard Rock
-    * **Mood** -> Serious | Tense
-    * **Energy** -> High
-    * **Movement** -> Chasing
-    * **Instruments** -> Acoustic Drums | Electronic Drums | Synthesizer | Electric Guitar | Electric Bass
 
 <p align=center>
   <img src="https://media.giphy.com/media/U4YKAzcXSerm7Cx9KX/giphy.gif">
