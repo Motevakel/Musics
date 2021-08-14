@@ -1,7 +1,7 @@
 <h1 align=center>
   <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif">
   
-  Musics
+  Music
   <a href="https://soundcloud.com/1nj3ct0r">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white" />
   </a>
@@ -76,5 +76,3 @@ List of music files created by AI and uploaded to [SoundCloud.com/d0t0n10n](http
 <p align=center>
   <img src="https://media.giphy.com/media/RjxWKMSrZkChOlNWqd/giphy.gif">
 </p>
-
-
