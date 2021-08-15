@@ -1,7 +1,7 @@
 <h1 align=center>
   <img src="https://media.giphy.com/media/idXKBFevLVjU67jBLa/giphy.gif">
   
-  Music
+  Musics
   <a href="https://soundcloud.com/1nj3ct0r">
     <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=flat&logo=soundcloud&logoColor=white" />
   </a>
